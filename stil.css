@@ -1,0 +1,49 @@
+body {
+	background:#333D51;
+}
+
+h1 {
+	font-size:50px;
+	color:#F4F3EA;
+	font-family:Verdana;
+	margin-left:450px;
+}
+
+#prvi_naslov {
+	color:#E0E7E9;
+	margin-left:200px;
+}
+
+#drugi_naslov {
+	color:#E0E7E9;
+	margin-left:200px;
+}
+
+#treci_naslov {
+	color:#E0E7E9;
+	margin-left:200px;
+}
+
+#cetvrti_naslov {
+	color:#E0E7E9;
+	margin-left:200px;
+}
+
+.soba1 {
+	margin-left:150px;
+}
+
+.soba2 {
+	margin-left:750px;
+	margin-top:-320px;
+}
+
+.soba3 {
+	margin-left:150px;
+	margin-top:10px;
+}
+
+.soba4 {
+	margin-left:750px;
+	margin-top:-320px;
+}
